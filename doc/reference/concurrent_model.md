@@ -1,4 +1,4 @@
-# 🦉 Concurrency Model 🦉
+# 🦉 Concurrent Model 🦉
 
 ## Content
 
